@@ -1,0 +1,10 @@
+atom.com
+wellness.atom.com
+support.atom.com
+community.atom.com
+resources.atom.com
+blog.atom.com
+help.atom.com
+forum.atom.com
+app.atom.com
+connect.atom.com
