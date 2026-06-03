@@ -47,6 +47,49 @@ support.org
 wellness.net
 ```
 
+### File Download Format
+
+Users can download domain lists in multiple formats:
+
+#### Download Options
+1. **TXT Format** - Simple line-separated domain list
+   - Best for: Quick imports, simple domain lists
+   - Download link: Raw text file format
+   - Example: `domains.txt`
+
+2. **CSV Format** - Structured data with metadata
+   - Best for: Detailed domain information, spreadsheet compatibility
+   - Download link: Comma-separated values file
+   - Example: `domains.csv`
+
+#### How to Download
+1. Go to the domain list or export section
+2. Select your preferred format (TXT or CSV)
+3. Click "Download" button
+4. File will be saved to your downloads folder
+5. Use the downloaded file for backups or importing into other systems
+
+#### Downloaded File Examples
+
+**Downloaded TXT File (domains.txt):**
+```
+hopehub.com
+wellness.com
+support.org
+community.net
+recovery.io
+```
+
+**Downloaded CSV File (domains.csv):**
+```
+domain,name,category,description
+hopehub.com,HopeHub Platform,wellness,Crisis recovery platform
+wellness.com,Wellness Portal,health,Health and wellness resources
+support.org,Support Network,community,Community support network
+community.net,Community Hub,social,Social connection platform
+recovery.io,Recovery Tools,support,Recovery and healing tools
+```
+
 ## 🚀 Getting Started
 
 [Add getting started instructions here]
